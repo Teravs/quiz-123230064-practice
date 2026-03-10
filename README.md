@@ -1,3 +1,1 @@
-# latihan_kuis_a
-
-A new Flutter project.
+# latihan_kuis_123230064
